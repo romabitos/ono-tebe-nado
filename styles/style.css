@@ -10,7 +10,7 @@
 .header__menu,
 .header__address {
   font-size: 18px;
-  font-family: 'Raleway', 'Arial', serif;
+  font-family: "Raleway", "Arial", sans-serif;
   display: grid;
   align-self: center;
 }
@@ -31,7 +31,7 @@
   width: 100%;
   font-style: normal;
   font-size: 18px;
-  font-family: 'Raleway', 'Arial', serif;
+  font-family: "Raleway", "Arial", sans-serif;
   display: grid;
   justify-self: end;
   line-height: 1.35;
@@ -118,7 +118,7 @@
   border: 1px solid #fff;
   padding: 12px 32px;
   color: #fff;
-  font-family: 'Raleway', 'Arial', serif;
+  font-family: "Raleway", "Arial", sans-serif;
   font-weight: normal;
   font-size: 22px;
   text-transform: uppercase;
@@ -167,12 +167,11 @@
   flex-direction: column;
   justify-content: space-between;
   color: #ffffff;
-  font-family: 'Raleway', 'Arial', serif;
+  font-family: "Raleway", "Arial", sans-serif;
   font-size: 22px;
   font-weight: 700;
   line-height: 26.4px;
   text-align: left;
-  
 }
 
 .card__title {
@@ -185,7 +184,7 @@
 .card__text {
   position: relative;
   z-index: 1;
-  font-family: 'Raleway', 'Arial', serif;
+  font-family: "Raleway", "Arial", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
@@ -247,7 +246,7 @@
   padding-top: 137px;
   padding-bottom: 100px;
   text-transform: uppercase;
-  font-family: 'Raleway', 'Arial', serif;
+  font-family: "Raleway", "Arial", sans-serif;
   font-size: 40px;
   font-weight: 700;
   line-height: 47px;
@@ -255,7 +254,7 @@
 
 .about__text {
   padding-bottom: 24px;
-  font-family: 'Raleway', 'Arial', serif;
+  font-family: "Raleway", "Arial", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
@@ -275,7 +274,7 @@
   padding-top: 15px;
   font-style: normal;
   font-size: 18px;
-  font-family: 'Raleway', 'Arial', serif;
+  font-family: "Raleway", "Arial", sans-serif;
   display: grid;
   align-self: start;
 }
@@ -306,4 +305,3 @@
   width: 48px;
   height: 48px;
 }
-
